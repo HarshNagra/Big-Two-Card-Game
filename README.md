@@ -8,3 +8,6 @@ Preferred IDE- Eclipse
 2. Run BigTwoServer
 3. Run BigTwoClient (for each player)
 4. Play!
+
+![Screenshot]
+(https://github.com/HarshNagra/Big-Two-Card-Game/blob/master/Screenshot.png)
